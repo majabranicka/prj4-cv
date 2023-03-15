@@ -36,6 +36,11 @@ body {
 	
 }
 
+.description-font {
+	font-style: italic;
+	
+}
+
 h2 {
 	font-family: 'Michroma', sans-serif;
 	color:#a56e5f;
